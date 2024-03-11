@@ -137,10 +137,11 @@ class SignUpPage extends StatelessWidget {
                 padding: const EdgeInsets.only(left: 30, right: 30),
                 child: Container(
                   decoration: BoxDecoration(
-                      borderRadius: BorderRadius.circular(5),
-                      border: Border.all(
-                        color: primaryColor.withOpacity(0.2),
-                      )),
+                    borderRadius: BorderRadius.circular(5),
+                    border: Border.all(
+                      color: primaryColor.withOpacity(0.2),
+                    ),
+                  ),
                   child: Padding(
                     padding: const EdgeInsets.only(left: 10),
                     child: TextField(
