@@ -65,9 +65,13 @@ flutter:
   assets:
     - assets/logos/Gizer_2.png
     - assets/logos/Gizer_7.png
+    - assets/logos/Gizer_001.svg
     - assets/icons/flat-color-icons--google.svg
     - assets/icons/devicon--twitter.svg
     - assets/icons/uil--facebook-f.svg
+    - assets/backgrounds/brown_black_001.png
+    - assets/backgrounds/black_back_001.jpg
+    - assets/backgrounds/green_back_001.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
