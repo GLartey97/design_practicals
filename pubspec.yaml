@@ -65,7 +65,8 @@ flutter:
   assets:
     - assets/logos/Gizer_2.png
     - assets/logos/Gizer_7.png
-    - assets/logos/Gizer_001.svg
+    - assets/logos/Gizer_001.png
+    - assets/logos/Gizer_white_001.png
     - assets/icons/flat-color-icons--google.svg
     - assets/icons/devicon--twitter.svg
     - assets/icons/uil--facebook-f.svg
