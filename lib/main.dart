@@ -1,4 +1,4 @@
-import 'package:design_practicals/pages/third_design/login_page_002.dart';
+import 'package:design_practicals/pages/third_design/splash_screen_002.dart';
 import 'package:flutter/material.dart';
 
 void main(List<String> args) {
@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: "Design Practicals",
       theme: ThemeData(primarySwatch: Colors.blue),
-      home: const LoginPage2(),
+      home: const SplashScreen2(),
     );
   }
 }
